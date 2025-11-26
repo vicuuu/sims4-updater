@@ -21,3 +21,6 @@ A free, built-from-scratch DLC auto-installer
 </details>
 <br>
 
+## 🪛 Known issues
+- Problem with scaling and resizing the window
+- Errors in the .bat file are not handled properly, causing the application to crash
