@@ -20,7 +20,7 @@ NO_SHADOW = 'box-shadow: none'
 
 
 def format_bytes(size: int) -> str:
-    return f"{size / 1024*1024:.1f} MB" 
+    return f"{size / 1048576:.1f} MB"  # 1024*1024 = 1048576
 
 
 def format_eta(sec: float) -> str:
@@ -314,4 +314,5 @@ def _create_footer(main_container) -> None:
 
 def hide_downloader_footer() -> None:
     if footer_container:
+
         footer_container.set_visibility(False)
