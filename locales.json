@@ -162,12 +162,12 @@
       "en": "Install"
     },
     "installer_title": {
-      "pl": "Instalator modów",
-      "en": "Mod Installer"
+      "pl": "Instalator DLC",
+      "en": "DLC Installer"
     },
     "auto_install_desc": {
-      "pl": "Automatyczna instalacja pobranych modów",
-      "en": "Automatic installation of downloaded mods"
+      "pl": "Automatyczna instalacja pobranych DLC",
+      "en": "Automatic installation of downloaded DLC"
     },
     "game_path": {
       "pl": "Ścieżka gry",
@@ -238,8 +238,8 @@
       "en": "File name"
     },
     "mod_name": {
-      "pl": "Nazwa moda",
-      "en": "Mod name"
+      "pl": "Nazwa DLC",
+      "en": "DLC name"
     },
     "download": {
       "pl": "Pobieranie",
@@ -338,8 +338,8 @@
       "en": "Uninstall Unlocker"
     },
     "unknown_mod": {
-      "pl": "Nieznany mod",
-      "en": "Unknown mod"
+      "pl": "Nieznane DLC",
+      "en": "Unknown DLC"
     },
     "unsupported_format": {
       "pl": "Nieobsługiwany format",
