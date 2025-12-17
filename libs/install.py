@@ -18,8 +18,6 @@ class InstallerManager:
         TEMP_EXTRACT_DIR.mkdir(exist_ok=True)
     
     def auto_detect_game_path(self) -> Tuple[bool, str]:
-        """Automatycznie wykrywa ścieżkę do The Sims 4"""
-        # Sprawdź rejestr Windows
         try:
             with winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, r"SOFTWARE\Maxis\The Sims 4") as key:
                 install_dir, _ = winreg.QueryValueEx(key, "Install Dir")
@@ -31,7 +29,6 @@ class InstallerManager:
         except OSError:
             pass
         
-        # Sprawdź typowe lokalizacje
         search_paths = (
             Path("C:/Program Files/EA Games/The Sims 4"),
             Path("C:/Program Files (x86)/EA Games/The Sims 4"),
@@ -48,7 +45,6 @@ class InstallerManager:
         return False, "Game not found"
     
     def set_game_path(self, game_path: str = None) -> bool:
-        """Ustawia ścieżkę do gry. Jeśli None, używa auto-detekcji"""
         if game_path is None:
             success, _ = self.auto_detect_game_path()
             return success
@@ -116,7 +112,6 @@ class InstallerManager:
     
     def install_file(self, file_path: Path, delete_after: bool = True) -> Tuple[bool, str, List[str]]:
         if not self.delta_path:
-            # Spróbuj auto-detekcji jeśli ścieżka nie jest ustawiona
             if not self.set_game_path(None):
                 return False, "Game path not set", []
         
@@ -177,3 +172,4 @@ class InstallerManager:
 
 
 installer_mgr = InstallerManager()
+
