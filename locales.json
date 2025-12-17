@@ -1,381 +1,186 @@
 {
   "mods": {
-    "EP01": {"pl": "Witaj w pracy", "en": "Get_to_Work"},
-    "EP02": {"pl": "Spotkajmy się", "en": "Get_Together"},
-    "EP03": {"pl": "Miejskie życie", "en": "City_Living"},
-    "EP04": {"pl": "Psy i koty", "en": "Cats_and_Dogs"},
-    "EP05": {"pl": "Cztery pory roku", "en": "Seasons"},
-    "EP06": {"pl": "Droga do sławy", "en": "Get_Famous"},
-    "EP07": {"pl": "Wyspiarskie życie", "en": "Island_Living"},
-    "EP08": {"pl": "Uniwersytet", "en": "Discover_University"},
-    "EP09": {"pl": "Życie eko", "en": "Eco_Lifestyle"},
-    "EP10": {"pl": "Zimowa wyprawa", "en": "Snowy_Escape"},  
-    "EP11": {"pl": "Wiejska sielanka", "en": "Cottage_Living"},  
-    "EP12": {"pl": "Lata liceum", "en": "High_School_Years"},  
-    "EP13": {"pl": "Rosnąc razem", "en": "Growing_Together"},  
-    "EP14": {"pl": "Ranczo koni", "en": "Horse_Ranch"},  
-    "EP15": {"pl": "Do wynajęcia", "en": "For_Rent"},  
-    "EP16": {"pl": "Zakochani", "en": "Lovestruck"},  
-    "EP17": {"pl": "Życie i śmierć", "en": "Life_and_Death"},  
-    "EP18": {"pl": "Biznes i hobby", "en": "Businesses_and_Hobbies"},  
-    "EP19": {"pl": "Urok natury", "en": "Enchanted_by_Nature"},  
-    "EP20": {"pl": "Czeka przygoda", "en": "Adventure_Awaits"},  
-    "FP01": {"pl": "Świętowanie", "en": "Holiday_Celebration"},  
-    "GP01": {"pl": "Na łonie natury", "en": "Outdoor_Retreat"},  
-    "GP02": {"pl": "Dzień w Spa", "en": "Spa_Day"},  
-    "GP03": {"pl": "Kolacja na mieście", "en": "Dine_Out"},  
-    "GP04": {"pl": "Wampiry", "en": "Vampires"},  
-    "GP05": {"pl": "Rodzicielstwo", "en": "Parenthood"},  
-    "GP06": {"pl": "Przygoda w dżungli", "en": "Jungle_Adventure"},  
-    "GP07": {"pl": "StrangerVille", "en": "StrangerVille"},  
-    "GP08": {"pl": "Królestwo magii", "en": "Realm_of_Magic"},  
-    "GP09": {"pl": "Star Wars: Podróż do Batuu", "en": "Star_Wars_Journey_to_Batuu"},  
-    "GP10": {"pl": "Wymarzone wnętrza", "en": "Dream_Home_Decorator"},  
-    "GP11": {"pl": "Moje historie ślubne", "en": "My_Wedding_Stories"},  
-    "GP12": {"pl": "Wilkołaki", "en": "Werewolves"},  
-    "SP01": {"pl": "Luksusowa impreza", "en": "Luxury_Party_Stuff"},  
-    "SP02": {"pl": "Idealne patio", "en": "Perfect_Patio_Stuff"},  
-    "SP03": {"pl": "Fajna kuchnia", "en": "Cool_Kitchen_Stuff"},  
-    "SP04": {"pl": "Upiorności", "en": "Spooky_Stuff"},  
-    "SP05": {"pl": "Domowe kino", "en": "Movie_Hangout_Stuff"},  
-    "SP06": {"pl": "Romantyczny ogród", "en": "Romantic_Garden_Stuff"},  
-    "SP07": {"pl": "Pokój dziecięcy", "en": "Kids_Room_Stuff"},  
-    "SP08": {"pl": "Rzeczy na podwórko", "en": "Backyard_Stuff"},  
-    "SP09": {"pl": "Dawny splendor", "en": "Vintage_Glamour_Stuff"},  
-    "SP10": {"pl": "Wieczór bowlingowy", "en": "Bowling_Night_Stuff"},  
-    "SP11": {"pl": "Fitness", "en": "Fitness_Stuff"},  
-    "SP12": {"pl": "Zabawki dla maluchów", "en": "Toddler_Stuff"},  
-    "SP13": {"pl": "Dzień prania", "en": "Laundry_Day_Stuff"},  
-    "SP14": {"pl": "Mój pierwszy zwierzak", "en": "My_First_Pet_Stuff"},  
-    "SP15": {"pl": "Moschino", "en": "Moschino_Stuff"},  
-    "SP16": {"pl": "Małe mieszkanie", "en": "Tiny_Living_Stuff_Pack"},  
-    "SP17": {"pl": "Na drutach", "en": "Nifty_Knitting"},  
-    "SP18": {"pl": "Paranormalne", "en": "Paranormal_Stuff_Pack"},  
-    "SP20": {"pl": "Retro Fit", "en": "Throwback_Fit_Kit"},  
-    "SP21": {"pl": "Wiejska kuchnia", "en": "Country_Kitchen_Kit"},  
-    "SP22": {"pl": "Walka z kurzem", "en": "Bust_the_Dust_Kit"},  
-    "SP23": {"pl": "Oaza dziedzińca", "en": "Courtyard_Oasis_Kit"},  
-    "SP24": {"pl": "Uliczna moda", "en": "Fashion_Street_Kit"},  
-    "SP25": {"pl": "Industrialny loft", "en": "Industrial_Loft_Kit"},  
-    "SP26": {"pl": "Przyloty Incheon", "en": "Incheon_Arrivals_Kit"},  
-    "SP28": {"pl": "Nowoczesna moda męska", "en": "Modern_Menswear_Kit"},  
-    "SP29": {"pl": "Kwitnące pokoje", "en": "Blooming_Rooms_Kit"},  
-    "SP30": {"pl": "Karnawałowa ulica", "en": "Carnaval_Streetwear_Kit"},  
-    "SP31": {"pl": "Dekoracje na maksa", "en": "Decor_to_the_Max_Kit"},  
-    "SP32": {"pl": "Szykowny księżyc", "en": "Moonlight_Chic_Kit"},  
-    "SP33": {"pl": "Mali obozowicze", "en": "Little_Campers_Kit"},  
-    "SP34": {"pl": "Pierwsze stylizacje", "en": "First_Fits_Kit"},  
-    "SP35": {"pl": "Luksus pustyni", "en": "Desert_Luxe_Kit"},  
-    "SP36": {"pl": "Pastelowy pop", "en": "Pastel_Pop_Kit"},  
-    "SP37": {"pl": "Codzienny bałagan", "en": "Everyday_Clutter_Kit"},  
-    "SP38": {"pl": "Kolekcja Simtimates", "en": "Simtimates_Collection_Kit"},  
-    "SP39": {"pl": "Łazienkowy bałagan", "en": "Bathroom_Clutter_Kit"},  
-    "SP40": {"pl": "Szklarniowa przystań", "en": "Greenhouse_Haven_Kit"},  
-    "SP41": {"pl": "Skarby piwnicy", "en": "Basement_Treasures_Kit"},  
-    "SP42": {"pl": "Powrót grunge", "en": "Grunge_Revival_Kit"},  
-    "SP43": {"pl": "Książkowy kącik", "en": "Book_Nook_Kit"},  
-    "SP44": {"pl": "Plusk przy basenie", "en": "Poolside_Splash_Kit"},  
-    "SP45": {"pl": "Nowoczesny luksus", "en": "Modern_Luxe_Kit"},  
-    "SP46": {"pl": "Domowy szef kuchni", "en": "Home_Chef_Hustle_Stuff_Pack"},  
-    "SP47": {"pl": "Zamkowa posiadłość", "en": "Castle_Estate_Kit"},  
-    "SP48": {"pl": "Gotycka obfitość", "en": "Goth_Galore_Kit"},  
-    "SP49": {"pl": "Kryształowe kreacje", "en": "Crystal_Creations_Stuff_Pack"},  
-    "SP50": {"pl": "Miejski hołd", "en": "Urban_Homage_Kit"},  
-    "SP51": {"pl": "Imprezowe niezbedniki", "en": "Party_Essentials_Kit"},  
-    "SP52": {"pl": "Riwiera", "en": "Riviera_Retreat_Kit"},  
-    "SP53": {"pl": "Przytulne bistro", "en": "Cozy_Bistro_Kit"},  
-    "SP54": {"pl": "Studio artysty", "en": "Artist_Studio_Kit"},  
-    "SP55": {"pl": "Bajkowy żłobek", "en": "Storybook_Nursery_Kit"},  
-    "SP56": {"pl": "Słodka piżama party", "en": "Sweet_Slumber_Party_Kit"},  
-    "SP57": {"pl": "Przytulny kicz", "en": "Cozy_Kitsch_Kit"},  
-    "SP58": {"pl": "Wygodny gracz", "en": "Comfy_Gamer_Kit"},  
-    "SP59": {"pl": "Tajemnicze sanktuarium", "en": "Secret_Sanctuary_Kit"},  
-    "SP60": {"pl": "Jaskinia Casanovy", "en": "Casanova_Cave_Kit"},  
-    "SP61": {"pl": "Wyrafinowany salon", "en": "Refined_Living_Room_Kit"},  
-    "SP62": {"pl": "Biznesowy szyk", "en": "Business_Chic_Kit"},  
-    "SP63": {"pl": "Elegancka łazienka", "en": "Sleek_Bathroom_Kit"},  
-    "SP64": {"pl": "Słodki urok", "en": "Sweet_Allure_Kit"},  
-    "SP65": {"pl": "Warsztat renowacji", "en": "Restoration_Workshop_Kit"},  
-    "SP66": {"pl": "Złote lata", "en": "Golden_Years_Kit"},  
-    "SP67": {"pl": "Kuchenny bałagan", "en": "Kitchen_Clutter_Kit"},  
-    "SP69": {"pl": "Jesienna garderoba", "en": "Autumn_Apparel_Kit"},  
-    "SP71": {"pl": "Wiejski przedpokój", "en": "Grange_Mudroom_Kit"},  
-    "SP72": {"pl": "Niezbędny glamour", "en": "Essential_Glam_Kit"},  
-    "SP73": {"pl": "Nowoczesne odosobnienie", "en": "Modern_Retreat_Kit"},  
-    "SP74": {"pl": "Z ogrodu na stół", "en": "Garden_to_Table_Kit"}  
+    "EP01": { "pl": "Witaj w Pracy", "en": "Get to Work" },
+    "EP02": { "pl": "Spotkajmy się", "en": "Get Together" },
+    "EP03": { "pl": "Miejskie życie", "en": "City Living" },
+    "EP04": { "pl": "Psy i koty", "en": "Cats and Dogs" },
+    "EP05": { "pl": "Cztery pory roku", "en": "Seasons" },
+    "EP06": { "pl": "Zostań gwiazdą", "en": "Get Famous" },
+    "EP07": { "pl": "Wyspiarskie życie", "en": "Island Living" },
+    "EP08": { "pl": "Na studia", "en": "Discover University" },
+    "EP09": { "pl": "Życie eko", "en": "Eco Lifestyle" },
+    "EP10": { "pl": "Śnieżna eskapada", "en": "Snowy Escape" },
+    "EP11": { "pl": "Wiejska sielanka", "en": "Cottage Living" },
+    "EP12": { "pl": "Licealne lata", "en": "High School Years" },
+    "EP13": { "pl": "Razem raźniej", "en": "Growing Together" },
+    "EP14": { "pl": "Ranczo koni", "en": "Horse Ranch" },
+    "EP15": { "pl": "Do wynajęcia", "en": "For Rent" },
+    "EP16": { "pl": "Zakochani", "en": "Lovestruck" },
+    "EP17": { "pl": "Życie i śmierć", "en": "Life and Death" },
+    "EP18": { "pl": "Biznes i hobby", "en": "Businesses and Hobbies" },
+    "EP19": { "pl": "Czar natury", "en": "Enchanted by Nature" },
+    "EP20": { "pl": "Przygoda wzywa", "en": "Adventure Awaits" },
+    "FP01": { "pl": "Świąteczny pakiet", "en": "Holiday Celebration Pack" },
+    "GP01": { "pl": "Ucieczka w plener", "en": "Outdoor Retreat" },
+    "GP02": { "pl": "Dzień w Spa", "en": "Spa Day" },
+    "GP03": { "pl": "Zjedzmy na mieście", "en": "Dine Out" },
+    "GP04": { "pl": "Wampiry", "en": "Vampires" },
+    "GP05": { "pl": "Rodzicielstwo", "en": "Parenthood" },
+    "GP06": { "pl": "Przygoda w dżungli", "en": "Jungle Adventure" },
+    "GP07": { "pl": "StrangerVille", "en": "StrangerVille" },
+    "GP08": { "pl": "Królestwo magii", "en": "Realm of Magic" },
+    "GP09": { "pl": "Star Wars: Podróż do Batuu", "en": "Star Wars™: Journey to Batuu" },
+    "GP10": { "pl": "Wystrój marzeń", "en": "Dream Home Decorator" },
+    "GP11": { "pl": "Moje ślubne historie", "en": "My Wedding Stories" },
+    "GP12": { "pl": "Wilkołaki", "en": "Werewolves" },
+    "SP01": { "pl": "Wytworne przyjęcie", "en": "Luxury Party Stuff" },
+    "SP02": { "pl": "Idealne patio", "en": "Perfect Patio Stuff" },
+    "SP03": { "pl": "Kuchnia na wypasie", "en": "Cool Kitchen Stuff" },
+    "SP04": { "pl": "Upiorności", "en": "Spooky Stuff" },
+    "SP05": { "pl": "Domowe kino", "en": "Movie Hangout Stuff" },
+    "SP06": { "pl": "Romantyczny ogród", "en": "Romantic Garden Stuff" },
+    "SP07": { "pl": "Pokój dziecięcy", "en": "Kids Room Stuff" },
+    "SP08": { "pl": "Zabawa na podwórku", "en": "Backyard Stuff" },
+    "SP09": { "pl": "Dawny splendor", "en": "Vintage Glamour Stuff" },
+    "SP10": { "pl": "Wieczór bowlingowy", "en": "Bowling Night Stuff" },
+    "SP11": { "pl": "Fitness", "en": "Fitness Stuff" },
+    "SP12": { "pl": "Zabawki dla maluchów", "en": "Toddler Stuff" },
+    "SP13": { "pl": "Dzień prania", "en": "Laundry Day Stuff" },
+    "SP14": { "pl": "Mój pierwszy zwierzak", "en": "My First Pet Stuff" },
+    "SP15": { "pl": "Moschino", "en": "Moschino Stuff" },
+    "SP16": { "pl": "Małe mieszkanie", "en": "Tiny Living Stuff Pack" },
+    "SP17": { "pl": "Na drutach", "en": "Nifty Knitting Stuff Pack" },
+    "SP18": { "pl": "Paranormalne", "en": "Paranormal Stuff Pack" },
+    "SP20": { "pl": "To były czasy", "en": "Throwback Fit Kit" },
+    "SP21": { "pl": "Wiejska kuchnia", "en": "Country Kitchen Kit" },
+    "SP22": { "pl": "Wielkie porządki", "en": "Bust the Dust Kit" },
+    "SP23": { "pl": "Oaza wystroju", "en": "Courtyard Oasis Kit" },
+    "SP24": { "pl": "Dzielnica mody", "en": "Fashion Street Kit" },
+    "SP25": { "pl": "Industrialny loft", "en": "Industrial Loft Kit" },
+    "SP26": { "pl": "Lotniskowy szyk", "en": "Incheon Arrivals Kit" },
+    "SP28": { "pl": "Nowoczesna moda męska", "en": "Modern Menswear Kit" },
+    "SP29": { "pl": "Kwitnące wnętrza", "en": "Blooming Rooms Kit" },
+    "SP30": { "pl": "Karnawałowa moda", "en": "Carnaval Streetwear Kit" },
+    "SP31": { "pl": "Wnętrza z przepychem", "en": "Decor to the Max Kit" },
+    "SP32": { "pl": "Księżycowy szyk", "en": "Moonlight Chic Kit" },
+    "SP33": { "pl": "Mali obozowicze", "en": "Little Campers Kit" },
+    "SP34": { "pl": "Mali modnisie", "en": "First Fits Kit" },
+    "SP35": { "pl": "Luksus pustyni", "en": "Desert Luxe Kit" },
+    "SP36": { "pl": "Pastelowy pop", "en": "Pastel Pop Kit" },
+    "SP37": { "pl": "Codzienny nieład", "en": "Everyday Clutter Kit" },
+    "SP38": { "pl": "Simtymność", "en": "Simtimates Collection Kit" },
+    "SP39": { "pl": "Łazienkowe szpargały", "en": "Bathroom Clutter Kit" },
+    "SP40": { "pl": "Zielony zakątek", "en": "Greenhouse Haven Kit" },
+    "SP41": { "pl": "Piwniczne skarby", "en": "Basement Treasures Kit" },
+    "SP42": { "pl": "Powrót grunge'u", "en": "Grunge Revival Kit" },
+    "SP43": { "pl": "Kącik czytelniczy", "en": "Book Nook Kit" },
+    "SP44": { "pl": "Basenowa moda", "en": "Poolside Splash Kit" },
+    "SP45": { "pl": "Współczesny luksus", "en": "Modern Luxe Kit" },
+    "SP46": { "pl": "Domowy szef kuchni", "en": "Home Chef Hustle Stuff Pack" },
+    "SP47": { "pl": "Zamkowe posiadłości", "en": "Castle Estate Kit" },
+    "SP48": { "pl": "Gotycki szyk", "en": "Goth Galore Kit" },
+    "SP49": { "pl": "Kryształowe kreacje", "en": "Crystal Creations Stuff Pack" },
+    "SP50": { "pl": "W hołdzie miastu", "en": "Urban Homage Kit" },
+    "SP51": { "pl": "Imprezowy niezbędnik", "en": "Party Essentials Kit" },
+    "SP52": { "pl": "Relaks na riwierze", "en": "Riviera Retreat Kit" },
+    "SP53": { "pl": "Przytulne bistro", "en": "Cozy Bistro Kit" },
+    "SP54": { "pl": "Artystyczne atelier", "en": "Artist Studio Kit" },
+    "SP55": { "pl": "Bajkowy pokoik", "en": "Storybook Nursery Kit" },
+    "SP56": { "pl": "Piżama party", "en": "Sweet Slumber Party Kit" },
+    "SP57": { "pl": "Powrót retro", "en": "Cozy Kitsch Kit" },
+    "SP58": { "pl": "Gamingowa wygoda", "en": "Comfy Gamer Kit" },
+    "SP59": { "pl": "Sekretne sanktuarium", "en": "Secret Sanctuary Kit" },
+    "SP60": { "pl": "Kryjówka casanovy", "en": "Casanova Cave Kit" },
+    "SP61": { "pl": "Wysmakowany salon", "en": "Refined Living Room Kit" },
+    "SP62": { "pl": "Biznesowy sznyt", "en": "Business Chic Kit" },
+    "SP63": { "pl": "Łazienka z klasą", "en": "Sleek Bathroom Kit" },
+    "SP64": { "pl": "Słodki powab", "en": "Sweet Allure Kit" },
+    "SP65": { "pl": "Warsztat majsterkowicza", "en": "Restoration Workshop Kit" },
+    "SP66": { "pl": "Złoty wiek", "en": "Golden Years Kit" },
+    "SP67": { "pl": "Kuchenne szpargały", "en": "Kitchen Clutter Kit" },
+    "SP69": { "pl": "Jesienna garderoba", "en": "Autumn Apparel Kit" },
+    "SP71": { "pl": "Wiejski przedsionek", "en": "Grange Mudroom Kit" },
+    "SP72": { "pl": "Twarzowy blichtr", "en": "Essential Glam Kit" },
+    "SP73": { "pl": "Nowoczesne odosobnienie", "en": "Modern Retreat Kit" },
+    "SP74": { "pl": "Ogród na stole", "en": "Garden to Table Kit" }
   },
   "ui": {
-    "app_title": {
-      "pl": "Sims 4 Updater",
-      "en": "Sims 4 Updater"
-    },
-    "downloader": {
-      "pl": "Pobieranie",
-      "en": "Downloader"
-    },
-    "installer": {
-      "pl": "Instalator",
-      "en": "Installer"
-    },
-    "unlocker": {
-      "pl": "Unlocker",
-      "en": "Unlocker"
-    },
-    "game_found": {
-      "pl": "Znaleziono grę",
-      "en": "Game found"
-    },
-    "game_not_found": {
-      "pl": "Nie znaleziono gry",
-      "en": "Game not found"
-    },
-    "installing": {
-      "pl": "Instalowanie",
-      "en": "Installing"
-    },
-    "installed": {
-      "pl": "Zainstalowano",
-      "en": "Installed"
-    },
-    "not_installed": {
-      "pl": "Nie zainstalowano",
-      "en": "Not installed"
-    },
-    "installing_all": {
-      "pl": "Instalowanie wszystkich",
-      "en": "Installing all"
-    },
-    "files": {
-      "pl": "plików",
-      "en": "files"
-    },
-    "no_archives": {
-      "pl": "Brak archiwów",
-      "en": "No archives"
-    },
-    "no_archives_found": {
-      "pl": "Nie znaleziono archiwów do zainstalowania",
-      "en": "No archives found to install"
-    },
-    "install": {
-      "pl": "Instaluj",
-      "en": "Install"
-    },
-    "installer_title": {
-      "pl": "Instalator DLC",
-      "en": "DLC Installer"
-    },
-    "auto_install_desc": {
-      "pl": "Automatyczna instalacja pobranych DLC",
-      "en": "Automatic installation of downloaded DLC"
-    },
-    "game_path": {
-      "pl": "Ścieżka gry",
-      "en": "Game path"
-    },
-    "click_check_game": {
-      "pl": "Kliknij aby sprawdzić ścieżkę gry",
-      "en": "Click to check game path"
-    },
-    "check_game_path": {
-      "pl": "Sprawdź ścieżkę",
-      "en": "Check path"
-    },
-    "archives_to_install": {
-      "pl": "Archiwa do zainstalowania",
-      "en": "Archives to install"
-    },
-    "refresh": {
-      "pl": "Odśwież",
-      "en": "Refresh"
-    },
-    "install_all": {
-      "pl": "Zainstaluj wszystko",
-      "en": "Install all"
-    },
-    "installer_info_title": {
-      "pl": "Informacje",
-      "en": "Information"
-    },
-    "installer_info_1": {
-      "pl": "Obsługiwane formaty: ZIP, RAR, 7Z",
-      "en": "Supported formats: ZIP, RAR, 7Z"
-    },
-    "installer_info_2": {
-      "pl": "Pliki są kopiowane do folderu Delta w katalogu gry",
-      "en": "Files are copied to Delta folder in game directory"
-    },
-    "installer_info_3": {
-      "pl": "Po instalacji archiwum jest usuwane",
-      "en": "Archive is deleted after installation"
-    },
-    "no_torrent_file": {
-      "pl": "Brak pliku torrent w folderze source",
-      "en": "No torrent file in source folder"
-    },
-    "torrent_load_failed": {
-      "pl": "Nie udało się wczytać torrenta",
-      "en": "Failed to load torrent"
-    },
-    "downloaded": {
-      "pl": "Pobrano",
-      "en": "Downloaded"
-    },
-    "downloading": {
-      "pl": "Pobieranie",
-      "en": "Downloading"
-    },
-    "ready_to_download": {
-      "pl": "Gotowe do pobrania",
-      "en": "Ready to download"
-    },
-    "ready": {
-      "pl": "Gotowe",
-      "en": "Ready"
-    },
-    "torrent_name": {
-      "pl": "Nazwa pliku",
-      "en": "File name"
-    },
-    "mod_name": {
-      "pl": "Nazwa DLC",
-      "en": "DLC name"
-    },
-    "download": {
-      "pl": "Pobieranie",
-      "en": "Download"
-    },
-    "waiting": {
-      "pl": "",
-      "en": ""
-    },
-    "loaded": {
-      "pl": "Wczytano",
-      "en": "Loaded"
-    },
-    "torrents": {
-      "pl": "torrentów",
-      "en": "torrents"
-    },
-    "no_files_selected": {
-      "pl": "Nie wybrano żadnych plików",
-      "en": "No files selected"
-    },
-    "download_cancelled": {
-      "pl": "Pobieranie anulowane",
-      "en": "Download cancelled"
-    },
-    "peers_refreshed": {
-      "pl": "Odświeżono peery",
-      "en": "Peers refreshed"
-    },
-    "completed": {
-      "pl": "Ukończono",
-      "en": "Completed"
-    },
-    "all_files_downloaded": {
-      "pl": "Wszystkie pliki pobrane!",
-      "en": "All files downloaded!"
-    },
-    "load_torrent_to_start": {
-      "pl": "Wczytaj torrent aby rozpocząć",
-      "en": "Load torrent to start"
-    },
-    "click_load_torrent": {
-      "pl": "Kliknij przycisk poniżej aby wczytać plik torrent",
-      "en": "Click button below to load torrent file"
-    },
-    "load_torrent": {
-      "pl": "Torrent",
-      "en": "Torrent"
-    },
-    "start": {
-      "pl": "Start",
-      "en": "Start"
-    },
-    "stop": {
-      "pl": "Stop",
-      "en": "Stop"
-    },
-    "checking": {
-      "pl": "Sprawdzanie",
-      "en": "Checking"
-    },
-    "click_check_status": {
-      "pl": "Kliknij aby sprawdzić status",
-      "en": "Click to check status"
-    },
-    "unlocker_title": {
-      "pl": "DLC Unlocker",
-      "en": "DLC Unlocker"
-    },
-    "one_click_install": {
-      "pl": "Instalacja jednym kliknięciem",
-      "en": "One-click installation"
-    },
-    "installation_status": {
-      "pl": "Status instalacji",
-      "en": "Installation status"
-    },
-    "check_status": {
-      "pl": "Sprawdź status",
-      "en": "Check status"
-    },
-    "unlocker_management": {
-      "pl": "Zarządzanie Unlockerem",
-      "en": "Unlocker Management"
-    },
-    "admin_rights_required": {
-      "pl": "Wymagane uprawnienia administratora do instalacji/odinstalowania",
-      "en": "Administrator rights required for install/uninstall"
-    },
-    "install_unlocker": {
-      "pl": "Zainstaluj Unlocker",
-      "en": "Install Unlocker"
-    },
-    "uninstall_unlocker": {
-      "pl": "Odinstaluj Unlocker",
-      "en": "Uninstall Unlocker"
-    },
-    "unknown_mod": {
-      "pl": "Nieznane DLC",
-      "en": "Unknown DLC"
-    },
-    "unsupported_format": {
-      "pl": "Nieobsługiwany format",
-      "en": "Unsupported format"
-    },
-    "no_files_to_install": {
-      "pl": "Brak plików do zainstalowania",
-      "en": "No files to install"
-    },
-    "file_not_exists": {
-      "pl": "Plik nie istnieje",
-      "en": "File does not exist"
-    },
-    "bat_run_error": {
-      "pl": "Błąd uruchamiania bat",
-      "en": "Batch file execution error"
-    },
-    "unlocker_install_error": {
-      "pl": "Błąd instalacji Unlocker",
-      "en": "Unlocker installation error"
-    },
-    "unlocker_installed_sims_error": {
-      "pl": "Unlocker zainstalowany, ale błąd przy configu Sims 4",
-      "en": "Unlocker installed, but Sims 4 config error"
-    },
-    "dlc_unlocker_installed": {
-      "pl": "Unlocker zainstalowane!",
-      "en": "Unlocker installed!"
-    },
-    "uninstall_error": {
-      "pl": "Błąd odinstalowania",
-      "en": "Uninstall error"
-    },
-    "dlc_unlocker_uninstalled": {
-      "pl": "Unlocker odinstalowany!",
-      "en": "Unlocker uninstalled!"
-    }
+    "app_title": { "pl": "Sims4ModManager", "en": "Sims4ModManager" },
+    "download_tab": { "pl": "Pobierz", "en": "Download" },
+    "unlocker_tab": { "pl": "Unlock", "en": "Unlock" },
+    "detect": { "pl": "WYKRYJ", "en": "DETECT" },
+    "browse": { "pl": "PRZEGLĄDAJ", "en": "BROWSE" },
+    "select_folder": { "pl": "Wybierz folder instalacji The Sims 4", "en": "Select The Sims 4 installation folder" },
+    "files": { "pl": "plików", "en": "files" },
+    "torrent_name": { "pl": "Nazwa pliku", "en": "File name" },
+    "dlc_id": { "pl": "ID", "en": "ID" },
+    "mod_name": { "pl": "Nazwa DLC", "en": "DLC name" },
+    "status": { "pl": "STATUS", "en": "STATUS" },
+    "download": { "pl": "Pobieranie", "en": "Download" },
+    "select_all": { "pl": "ZAZNACZ WSZYSTKO", "en": "SELECT ALL" },
+    "deselect_all": { "pl": "ODZNACZ WSZYSTKO", "en": "DESELECT ALL" },
+    "load_torrent": { "pl": "Torrent", "en": "Torrent" },
+    "start": { "pl": "Start", "en": "Start" },
+    "stop": { "pl": "Stop", "en": "Stop" },
+    "auto_install": { "pl": "Auto-instalacja", "en": "Auto-install" },
+    "back_to_downloads": { "pl": "Powrót do pobierania", "en": "Back to downloads" },
+    "unlocker_title": { "pl": "EA DLC Unlocker v2", "en": "EA DLC Unlocker v2" },
+    "install_unlocker_config": { "pl": "Zainstaluj Unlocker", "en": "Install Unlocker" },
+    "uninstall_unlocker": { "pl": "Odinstaluj Unlocker", "en": "Uninstall Unlocker" },
+    "unknown_mod": { "pl": "Nieznane DLC", "en": "Unknown DLC" },
+    "installed_badge": { "pl": "zainstalowanych", "en": "installed" },
+    "sort_installed": { "pl": "✓", "en": "✓" }
+  },
+  "status": {
+    "ready": { "pl": "Gotowe", "en": "Ready" },
+    "ready_to_download": { "pl": "Gotowe do pobrania", "en": "Ready to download" },
+    "downloading": { "pl": "Pobieranie", "en": "Downloading" },
+    "installing": { "pl": "Instalowanie", "en": "Installing" },
+    "installed": { "pl": "Zainstalowany", "en": "Installed" },
+    "not_installed": { "pl": "Nie zainstalowany", "en": "Not installed" },
+    "waiting": { "pl": "", "en": "" },
+    "completed": { "pl": "Ukończono", "en": "Completed" },
+    "paused": { "pl": "Wstrzymano", "en": "Paused" }
+  },
+  "notifications": {
+    "game_found": { "pl": "Znaleziono grę: {}", "en": "Game found: {}" },
+    "game_not_found": { "pl": "Nie znaleziono The Sims 4", "en": "The Sims 4 not found" },
+    "no_torrent": { "pl": "Brak pliku torrent w folderze source", "en": "No torrent file in source folder" },
+    "torrent_load_failed": { "pl": "Nie udało się wczytać torrenta", "en": "Failed to load torrent" },
+    "no_files_selected": { "pl": "Nie wybrano żadnych plików", "en": "No files selected" },
+    "download_cancelled": { "pl": "Pobieranie anulowane", "en": "Download cancelled" },
+    "all_downloaded": { "pl": "Wszystkie pliki pobrane!", "en": "All files downloaded!" },
+    "cannot_change_lang": { "pl": "Nie można zmienić języka podczas pobierania", "en": "Cannot change language during download" },
+    "browser_error": { "pl": "Błąd otwierania przeglądarki folderów", "en": "Error opening folder browser" },
+    "unlocker_installed": { "pl": "DLC Unlocker zainstalowany pomyślnie", "en": "DLC Unlocker installed successfully" },
+    "unlocker_uninstalled": { "pl": "DLC Unlocker odinstalowany pomyślnie", "en": "DLC Unlocker uninstalled successfully" },
+    "install_cancelled": { "pl": "Anulowano instalację lub nie udało się skopiować pliku", "en": "Installation cancelled or file copy failed" },
+    "uninstall_cancelled": { "pl": "Anulowano deinstalację lub nie udało się usunąć pliku", "en": "Uninstall cancelled or file delete failed" },
+    "installing_dlcs": { "pl": "Instalowanie {} DLC...", "en": "Installing {} DLC(s)..." },
+    "dlc_installed": { "pl": "✓ {}: {}", "en": "✓ {}: {}" },
+    "dlc_install_failed": { "pl": "✗ {}: {}", "en": "✗ {}: {}" },
+    "file_not_found": { "pl": "✗ {}: Nie znaleziono pliku", "en": "✗ {}: File not found" }
+  },
+  "errors": {
+    "ea_not_found": { "pl": "Nie znaleziono EA app/Origin", "en": "EA app/Origin not found" },
+    "dll_not_found": { "pl": "Nie znaleziono pliku DLL: {}", "en": "Source DLL not found: {}" },
+    "config_not_found": { "pl": "Nie znaleziono pliku config: {}", "en": "Config file not found: {}" },
+    "game_config_not_found": { "pl": "Nie znaleziono konfiguracji gry: {}", "en": "Game config not found: {}" },
+    "appdata_unavailable": { "pl": "Folder AppData niedostępny", "en": "AppData directory not available" },
+    "config_copy_failed": { "pl": "Nie udało się skopiować config.ini do AppData", "en": "Failed to copy config.ini to AppData" },
+    "game_config_copy_failed": { "pl": "Nie udało się skopiować g_The Sims 4.ini do AppData", "en": "Failed to copy g_The Sims 4.ini to AppData" },
+    "install_failed": { "pl": "Instalacja nie powiodła się: {}", "en": "Installation failed: {}" },
+    "uninstall_failed": { "pl": "Deinstalacja nie powiodła się: {}", "en": "Uninstall failed: {}" }
+  },
+  "empty_state": {
+    "title": { "pl": "Wczytaj torrent aby rozpocząć", "en": "Load torrent to start" },
+    "subtitle": { "pl": "Kliknij przycisk poniżej aby wczytać plik torrent", "en": "Click button below to load torrent file" }
+  },
+  "categories": {
+    "EP": { "pl": "DODATKI", "en": "EXPANSION PACKS" },
+    "GP": { "pl": "PAKIETY", "en": "GAME PACKS" },
+    "SP": { "pl": "ZESTAWY", "en": "STUFF PACKS" },
+    "FP": { "pl": "DARMOWE", "en": "FREE" },
+    "OTHER": { "pl": "INNE", "en": "OTHER" }
   }
 }
